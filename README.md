@@ -112,7 +112,7 @@ go test ./...
 make build
 ```
 
-Requires Go 1.22+.
+Requires Go 1.25+.
 
 ## Release
 
