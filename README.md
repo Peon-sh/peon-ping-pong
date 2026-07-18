@@ -142,4 +142,4 @@ pkg/api/              # push schema types
 
 ## License
 
-MIT
+[MIT](./LICENSE)
